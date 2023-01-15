@@ -15,7 +15,7 @@ components - not of machines, but of different branches of math - into a single 
 modeling every mathematical theory. What was surprising, though, is that this language, unexpectedly, could also perform
 computations. The same algorithms that could be computed by Turing Machines procedurally, could also be computed by the
 Lambda Calculus, through symbolic manipulations. The idea of using the Lambda Calculus for computations inspired the
-creation of an entire new branch of programming, which we call the functional paradigm. Haskell, Clojure, Elixir and Agda,
+creation of an entire new branch of programming, which we call the functional paradigm. Haskell, Clojure, Elixir, and Agda
 are languages based on the functional mindset, which is highly inspired by Church's invention.
 
 If both, Turing Machines (and procedural languages) and the Lambda Calculus (and functional languages), are capable of doing
